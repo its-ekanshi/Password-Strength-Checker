@@ -34,6 +34,6 @@ Weak: password must contain a digit
 ```
 
 ---
-### 📬 Connect with Me
-💼 **LinkedIn:** [www.linkedin.com/in/ekanshisaxena](https://www.linkedin.com/in/ekanshisaxena)  
-📂 **GitHub:** [github.com/its-ekanshi](https://github.com/its-ekanshi)
+## 📬 Contact
+**[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** 
+**[GitHub](https://github.com/its-ekanshi/)** 
